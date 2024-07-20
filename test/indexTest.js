@@ -9,6 +9,7 @@ describe('index.js', function () {
   const unmodifiedTestArr = [1, 2, 3, 4]
   const unmodifiedTestObj = {one: 1, two: 2, three: 3, four: 4}
 
+  
 
   describe('myEach', function () {
     const alert = chai.spy();
